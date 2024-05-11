@@ -1,0 +1,22 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": ["lib/**/*.jar"],
+  "cSpell.words": [
+    "Aprovado",
+    "condição",
+    "INDEFENIDO",
+    "insuficiente",
+    "Medida",
+    "MEDIO",
+    "PEQUENO",
+    "Prova",
+    "recuperação",
+    "Reprovado",
+    "Resultado",
+    "saldo",
+    "sigla",
+    "Solicatado",
+    "ternária"
+  ]
+}
